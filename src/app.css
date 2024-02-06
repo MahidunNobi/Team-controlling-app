@@ -1,0 +1,12 @@
+#HomeDiv{
+    background-image: url(dylan-gillis-KdeqA3aTnBY-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    box-shadow: inset 0 0 0 black;
+    
+}
+
+.HomeDiv2{
+    background-color: rgba(0, 0, 0, 0.479);
+}
